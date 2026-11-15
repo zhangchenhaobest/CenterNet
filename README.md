@@ -1,3 +1,29 @@
+# CenterNet
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Object detection, 3D detection, and pose estimation using center point detection:
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+基于中心点检测的目标检测、3D 检测与姿态估计。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Objects as Points
 Object detection, 3D detection, and pose estimation using center point detection:
 ![](readme/fig2.png)
